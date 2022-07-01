@@ -10,7 +10,6 @@
             "name": "BitPay"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": "~8.0.0||~8.1.0"
     },
